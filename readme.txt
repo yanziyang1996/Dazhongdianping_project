@@ -1,0 +1,1 @@
+This is a python project about using scrapy to get data from https://www.dianping.com/, including many data of shops,such as name,address,telphone.The data will be save in a csv file and txt file, users can modify this framework to get another data accroding your need.
